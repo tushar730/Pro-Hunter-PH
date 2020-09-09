@@ -1,66 +1,41 @@
-# BetterDiscord Themes
-[![star this repo](https://githubbadges.com/star.svg?user=codedotspectra&repo=themes&style=default&color=fff&background=1a75ff)](https://github.com/codedotspectra/themes)
-[![fork this repo](https://githubbadges.com/fork.svg?user=codedotspectra&repo=themes&style=default&color=fff&background=1a75ff)](https://github.com/codedotspectra/themes/fork)
+<p align="center">
+<img src = "https://github.com/tushar730/Pro-Hunter-Theme/blob/master/image/ezgif.com-video-to-gif%20(1).gif?raw=true">
+</p>
 
-All the themes/mini-themes/tools i made for Discord.
+<p align="center">
+    <a href="https://discord.gg/6NAjq8C" alt="Get Support">
+         <img src="https://img.shields.io/discord/412794678791110664.svg?label=Support&logo=discord&style=flat-square&logoColor=%23ffffff&colorB=%237289DA" /></a>
+    <a href="https://github.com/tushar730/Pro-Hunter-Theme" alt="Latest Commit">
+        <img src="https://img.shields.io/github/last-commit/puckzxz/NotAnotherAnimeTheme.svg?logo=GitHub&style=flat-square" /></a>
+</p>
+       
 
-help me to make my themes even better! Join the discord server!
-Suggestions and bugs reports are welcome
+NotAnotherAnimeTheme is a highly customizable theme for Discord (with [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest)) allowing for a revitalized and fresh take on the Discord UI. Every part of the theme is customizable, from the background image to the scroll bar colors. The user has full control over the default configuration. Preview pictures can be found [here.](https://github.com/puckzxz/NotAnotherAnimeTheme#images-of-variations)
 
-Discord server invite : https://discord.gg/PZdnCVD
+## Installation
 
-##  1. How to ask for help
-0. First, read the  documentation down below or on the repo's wiki
-1. Join the discord server : https://discord.gg/PZdnCVD
-2. Read the rules
-3. Check #read-before-asking
-4. Go to #help-channel
-5. Ask
-   * Specify the theme
-   * Explain your problem clearly
-   * add a screenshot if needed
+1. Ensure [Bandaged BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest) is installed.
+2. Open one of the following variations of the theme in a new browser tab
+      * (https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeThemeSCSL.theme.css)
+     
+3. In the new tab, Right click > "Save As..." > save to the BetterDiscord Theme folder.
+4. Restart the Discord client either by right clicking the tray icon and clicking "Quit Discord" or by pressing Ctrl+R inside the client.
+5. Go to User Settings in Discord > Themes > Select `NotAnotherAnimeTheme vX.X by puckzxz#2080`
 
-## 2. Installing a theme
-1. Download the theme using the download link in the theme list (4.)
-2. Save the file somewhere you can find it
-3. Open the themes folder
-  * Go to discord setting
-  * Go to themes
-  * Click on "open themes folder"
-4. Put the theme file inside the themes folder
-5. Reload discord using CTRL+R (Windows/Linux) or CMD+R (MacOS)
-6. Enable the theme
-  * Go to discord setting
-  * Go to themes
-  * Enable your theme
+## FAQ
 
-## 3. Customize your theme
-All themes are provided with images & color, but you can easily customize your theme.
+### Q: *Where is the BetterDiscord Theme folder located?*
 
-1. Open the theme file
-  * Go to discord setting
-  * Go to themes
-  * Click on "open themes folder"
-  * Open the theme file with any text editor (notepadd++, atom, vscode, sublime text, ...)
-2. Find the ":root" part, this is where all color and images are defined
-3. Change values to your liking
-  * For images, replace the link, must be a direct link (www.website.com/exemple-img.png) (you can use .png/.jpg/.jpeg/.gif)
-  * For colors, replace the color code, you can use this website to get color codes https://www.w3schools.com/colors/colors_picker.asp
-
-## 3.a Customize your theme - Theme Generator
-Use this tool to customize you theme super easily
-Link : http://theme.codedotspectra.me/
+* Usually it is installed in ` %AppData%\BetterDiscord\themes`, however for a custom installtion, the location can be found by going to User Settings in Discord > Themes > Open Theme Folder.
 
 
-# 4. Themes list
-## 4.a Neutron v8.0.0
-A simple but highly customizable theme, now sugar free!
+## Support
 
-Download : https://betterdiscord.net/ghdl?id=3220
-![Neutron Demo](https://i.imgur.com/5YhoRtf.jpg)
+A Discord server was made for issues, support, comments, recommendations, etc.
 
-## 4.b Nocturnal v2.2.0 (currently being reworked)
-An easy on the eye theme, for those who live at night
+[<img src="https://github.com/tushar730/Pro-Hunter-Theme/blob/master/image/Capture.PNG?raw=true">](https://discord.gg/6NAjq8C)
 
-Download : https://betterdiscord.net/ghdl?id=2653
-![Nocturnal Demo](https://i.imgur.com/86AhI4f.png)
+Any issues can be expressed by:
+
+* [Joining the Discord server](https://discord.gg/6NAjq8C)
+* Messaging me on Discord at TSR#1284
