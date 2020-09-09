@@ -1,0 +1,33 @@
+//META{"name":"Pro Hunter","description":"A simple but highly customizable theme, now sugar free!","author":"Spectra","version":"8.0 AutoUpdate","invite":"PZdnCVD","source":"https://github.com/tushar730/Pro-Hunter-PH","website":"https://codedotspectra.me/"}*//
+/*
+
+
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); 
+
+:root {
+  
+  --themeColor1: #36D1DC; 
+  --themeColor2: #5B86E5; 
+
+  
+  --customFont: 'Open sans', sans-serif; 
+
+  /* HOME BUTTON */
+  --homeImage: url('https://github.com/tushar730/Pro-Hunter-PH/blob/master/icons/PH.png?raw=true');
+  --homeImageSize: cover;
+
+  /* BACKGROUND */
+  --backgroundColor: #0d0d0d; 
+  --backgroundImage: url('https://i.imgur.com/zxXBhw1.jpg'); 
+  --backgroundPosition: center; 
+  --backgroundSize: cover; 
+  --backgroundRepeat: no-repeat; 
+  --backgroundBlur: 100px; 
+  --backgroundOpacity: .65; 
+
+  /* CODE BLOCKS */
+  --backgroundCode: rgba(0,0,0,.5);
+  --backgroundName: rgba(0,0,0,.5);
+}
