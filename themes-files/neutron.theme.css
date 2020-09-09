@@ -1,23 +1,12 @@
-//META{"name":"Neutron","description":"A simple but highly customizable theme, now sugar free!","author":"Spectra","version":"8.0 AutoUpdate","invite":"PZdnCVD","source":"https://github.com/codedotspectra/themes","website":"https://codedotspectra.me/"}*//
+//META{"name":"Pro Hunter","description":"A simple but highly customizable theme, now sugar free!","author":"Spectra","version":"8.0 AutoUpdate","invite":"PZdnCVD","source":"https://github.com/tushar730/Pro-Hunter-PH","website":"https://codedotspectra.me/"}*//
 /*
 
-$$\   $$\ $$$$$$$$\ $$\   $$\ $$$$$$$$\ $$$$$$$\   $$$$$$\  $$\   $$\
-$$$\  $$ |$$  _____|$$ |  $$ |\__$$  __|$$  __$$\ $$  __$$\ $$$\  $$ |
-$$$$\ $$ |$$ |      $$ |  $$ |   $$ |   $$ |  $$ |$$ /  $$ |$$$$\ $$ |
-$$ $$\$$ |$$$$$\    $$ |  $$ |   $$ |   $$$$$$$  |$$ |  $$ |$$ $$\$$ |
-$$ \$$$$ |$$  __|   $$ |  $$ |   $$ |   $$  __$$< $$ |  $$ |$$ \$$$$ |
-$$ |\$$$ |$$ |      $$ |  $$ |   $$ |   $$ |  $$ |$$ |  $$ |$$ |\$$$ |
-$$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
-\__|  \__|\________| \______/    \__|   \__|  \__| \______/ \__|  \__|
+
 
 */
 @import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); /* Custom font import link (see fonts.google.com) */
-/*##########################################################################
 
-                 CHANGE VALUES BELOW TO CUSTOMIZE YOU THEME
-
-##########################################################################*/
 :root {
   /* COLORS */
   --themeColor1: #36D1DC; /* Theme's color 1 */
