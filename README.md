@@ -15,14 +15,12 @@ Pro Hunter Theme is a highly customizable theme for Discord (with [BetterDiscord
 ## Installation
 
 1. Ensure [Bandaged BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest) is installed.
-2. Open one of the following variations of the theme in a new browser tab
-      * (https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeThemeSCSL.theme.css)
+2. Open theme in a new browser tab
+      * (https://raw.githubusercontent.com/tushar730/Pro-Hunter-PH/master/themes-files/PH.theme.css)
      
 3. In the new tab, Right click > "Save As..." > save to the BetterDiscord Theme folder.
 4. Restart the Discord client either by right clicking the tray icon and clicking "Quit Discord" or by pressing Ctrl+R inside the client.
-5. Go to User Settings in Discord > Themes > Select `NotAnotherAnimeTheme vX.X by puckzxz#2080`
-
-## FAQ
+5. Go to User Settings in Discord > Themes > Select `PH.theme`
 
 ### Q: *Where is the BetterDiscord Theme folder located?*
 
